@@ -14,6 +14,7 @@
     <option value="3">Jean</option>
     <option value="3">mado</option>
     <option value="3">Pat</option>
+    <option value="3">diderot</option>
   </select>
 
    </div>
